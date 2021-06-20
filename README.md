@@ -1,4 +1,4 @@
-MailHog [ ![Download](https://img.shields.io/github/release/mailhog/MailHog.svg) ](https://github.com/mailhog/MailHog/releases/tag/v1.0.0) [![GoDoc](https://godoc.org/github.com/mailhog/MailHog?status.svg)](https://godoc.org/github.com/mailhog/MailHog) [![Build Status](https://travis-ci.org/mailhog/MailHog.svg?branch=master)](https://travis-ci.org/mailhog/MailHog)
+MailHog [ ![Download](https://img.shields.io/github/release/openhoangnc/MailHog.svg) ](https://github.com/mailhog/MailHog/releases/tag/v1.0.0) [![GoDoc](https://godoc.org/github.com/mailhog/MailHog?status.svg)](https://godoc.org/github.com/mailhog/MailHog) [![Build Status](https://travis-ci.org/openhoangnc/MailHog.svg?branch=master)](https://travis-ci.org/openhoangnc/MailHog)
 =========
 
 Inspired by [MailCatcher](http://mailcatcher.me/), easier to install.
@@ -46,7 +46,7 @@ E.g. the path to Go's bin files on Ubuntu is `~/go/bin/`, so to start the MailHo
 ```
 
 #### Docker
-[Run it from Docker Hub](https://registry.hub.docker.com/r/mailhog/mailhog/) or using the provided [Dockerfile](Dockerfile)
+[Run it from Docker Hub](https://registry.hub.docker.com/r/openhoangnc/mailhog/) or using the provided [Dockerfile](Dockerfile)
 
 ### Configuration
 
